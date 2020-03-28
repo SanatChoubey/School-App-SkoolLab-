@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "482601761802",
+    "firebase_url": "https://skoollab-51e80.firebaseio.com",
+    "project_id": "skoollab-51e80",
+    "storage_bucket": "skoollab-51e80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482601761802:android:fcf06989b2825a9e6cf3f3",
+        "android_client_info": {
+          "package_name": "com.sanatskool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482601761802-fp0mjkqp4njc8a1mocqcf51r10449mq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanatskool",
+            "certificate_hash": "11955b750419b034a600d1f5cabb0e91de202f0e"
+          }
+        },
+        {
+          "client_id": "482601761802-5lmtk9q1l66334vste9dfst5lsvoulv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSou4N-iPEPolbSPuvUJM1uMa_9iWRqIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482601761802-5lmtk9q1l66334vste9dfst5lsvoulv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
